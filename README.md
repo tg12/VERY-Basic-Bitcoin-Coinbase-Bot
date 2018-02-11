@@ -15,3 +15,6 @@ Discussion should take place here....
 
 https://www.reddit.com/r/CoinBase/comments/7f9y67/coinbase_bot_for_automatic_profit_taking_python/?ref=share&ref_source=link
 
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQ6V6K8ZY6D84">
+  <img src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+</a>
